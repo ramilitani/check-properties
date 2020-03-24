@@ -4,7 +4,7 @@ Utility tool to verify properties from a template file missing in another proper
 
 This is useful when you need to compare from a template file an updated or added properties checking wether the key value from template exist in other properties file. 
 
-PS: comparing existing keys of several extensive language properties files.
+PS: checking existing keys of several extensive language properties files.
 
 **When you run this utility, it create a log file witch shows properties contained in the template file that are not in other properties file**
 
