@@ -6,4 +6,4 @@ This is useful when you need to compare from a template file an updated or added
 
 PS: comparing the keys of several extensive language properties files.
 
--- When you run this utility, it create a log file witch shows you properties that don't match the template's
+  - When you run this utility, it create a log file witch shows you properties that don't match the template's
