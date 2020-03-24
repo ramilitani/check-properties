@@ -25,7 +25,7 @@ Maven
     mvn clean install
     ```
  
- - Go to the target folder and run the following command to running the application.
+ - Go to the target folder and run the following command to run the application.
     ```
     java -jar checkProperties.jar
     ```
