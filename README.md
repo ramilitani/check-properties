@@ -32,4 +32,4 @@ Maven
    
 ### Application execution warnings
 
-  After you did run the application go to the resources folder **check-properties/target** to verify the **app.log** file witch show you the missing properties.
+  After you did run the application go to the target folder **check-properties/target** to verify the **app.log** file witch show you the missing properties.
