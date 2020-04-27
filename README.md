@@ -2,7 +2,7 @@
 
 Utility tool to verify properties from a template file missing in another properties file.
 
-This is useful when you need to compare from a template file an updated or added properties checking wether the key value from template exist in other properties file. 
+This is useful when you need to compare from a template file some updated or added properties checking whether the key value from template exist in other properties file. 
 
 PS: checking existing keys of several extensive language properties files.
 
